@@ -1,0 +1,167 @@
+.igs_display-flex {
+    display: flex;
+}
+
+.igs_background-color-darks {
+    background-color: #111827;
+}
+
+.igs_color-white {
+    color: white;
+}
+
+.igs_list-style-none {
+    list-style: none;
+}
+
+.igs_font-size-40px {
+    font-size: 80px;
+}
+
+.igs_text-white {
+    color: white;
+}
+
+.igs_flex-direction-row {
+    flex-direction: row;
+}
+
+.igs_justify-content {
+    justify-content: space-between;
+}
+
+.igs_font-family-arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.igs_width-300px {
+    width: 300px;
+}
+
+.igs_width-30px {
+    width: 30px;
+}
+
+.igs_padding-80px {
+    padding: 50px;
+}
+
+/*.igs_margin-100px {
+    margin: ;
+}*/
+
+.igs_align-self-flex-start {
+    align-self: flex-start;
+}
+
+.igs_width-200px{
+    width: 200px;
+}
+
+.igs_justify-content-space-between {
+    justify-content: space-between;
+}
+
+.igs_justify-content-flex-start {
+    justify-content: flex-start;
+}
+
+.igs_justify-content-flex-end {
+    justify-content: flex-end;
+}
+
+.igs_background-color-gris {
+    background-color: #1f2937;
+}
+
+.igs_padding-20px {
+    padding: 20px;
+}
+
+.igs_margin-botom-1em {
+    margin-bottom: 1em;
+}
+
+.igs_border-raduis {
+    border-radius: 10px;
+}
+
+.igs_justify-content-flex-end {
+    justify-content: space-between;
+}
+
+.igs_padding-100px {
+    padding: 60px;
+}
+
+.igs_display-grid {
+    display: grid;
+}
+
+.igs_grid-template-column {
+    grid-template-columns: 1fr 1fr;
+}
+
+.igs_background-color-gris-pure {
+    background-color: #374151;
+}
+
+.igs_text-align-center {
+    text-align: center;
+}
+
+.igs_width-330px {
+    width: 320px;
+}
+
+.igs_padding-10px {
+    padding: 10px;
+}
+
+.igs_width-350px {
+    width: 325px;
+}
+
+.igs_margin-3px {
+    margin: 10px;
+}
+
+::placeholder {
+    color: #d1d5db;
+}
+
+.igs_padding-20px {
+    padding: 15px;
+}
+
+.igs_margin-bottom-1em {
+    margin-bottom: 7em;
+}
+.igs_background-color-blue {
+    background-color: blue;
+}
+
+/*margin-top est la marge du haut*/
+.igs_margin-top-50px {
+    margin-top: 50px;
+}
+
+.igs_float-right {
+    float: right;
+}
+
+.igs_margin-left-800px {
+    margin-left: 600px;
+}
+
+.igs_margin-10px {
+    margin: 10px;
+}
+
+.igs_margin-left-20px {
+    margin-left: 20px;
+}
+
+.igs_flex-direction-column {
+    flex-direction: column;
+}
